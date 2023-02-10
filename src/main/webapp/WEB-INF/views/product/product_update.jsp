@@ -133,7 +133,7 @@
 						<div class="product_event">
 							<input type="reset" id="reset" value="취소"
 								class="btn btn-danger btn-xs"> <input type="submit"
-								name="product_event" value="전송" class="btn btn-danger btn-xs">
+								name="product_event" value="등록" class="btn btn-danger btn-xs">
 						</div>
 					</fieldset>
 				</form>
